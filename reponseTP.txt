@@ -1,0 +1,1 @@
+Exercice 2 : git status montre les modifications qui ont été effectuées
